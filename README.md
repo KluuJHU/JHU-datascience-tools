@@ -1,2 +1,2 @@
 # JHU-datascience-tools
-This is for the JHU clourse on data science
+This is for the JHU course on data science
